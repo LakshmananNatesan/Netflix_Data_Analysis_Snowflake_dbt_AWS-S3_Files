@@ -1,4 +1,4 @@
-# Netflix_Data_Analysis_Snowflake_dbt_AWS-S3_Files
+# Netflix-Style Recommendation Data Pipeline with Snowflake & dbt
 
 ## Introduction
 This project demonstrates an end-to-end data engineering and analytics pipeline designed to extract, transform, and visualize Netflix data. The workflow follows the modern ELT (Extract–Load–Transform) approach and leverages cloud-based tools for scalability and automation.
